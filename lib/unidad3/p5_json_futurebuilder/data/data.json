@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tlayuda Tradicional",
+    "imagen": "https://picsum.photos/id/42/800/600",
+    "tiempo": "20 min",
+    "ingredientes": ["1 Asiento de cerdo", "Frijoles molidos", "Quesillo oaxaqueño", "Tasajo o Cecina", "Col picada"],
+    "pasos": [
+      "Untar el asiento sobre la tortilla gigante.",
+      "Esparcir una capa uniforme de frijoles molidos.",
+      "Agregar el quesillo deshebrado y la col.",
+      "Asar al carbón hasta que esté tostada.",
+      "Servir con la carne asada encima."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Mole Negro Oaxaqueño",
+    "imagen": "https://picsum.photos/id/292/800/600",
+    "tiempo": "120 min",
+    "ingredientes": ["Chiles chilhuacle negro", "Chocolate de mesa", "Plátano macho", "Ajonjolí", "Pollo cocido"],
+    "pasos": [
+      "Tostar y desvenar los chiles.",
+      "Freír el plátano, el ajonjolí y las especias.",
+      "Licuar todo con el caldo de pollo.",
+      "Cocinar la mezcla con el chocolate a fuego lento.",
+      "Servir el mole sobre el pollo."
+    ]
+  }
+]

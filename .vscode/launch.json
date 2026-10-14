@@ -1,0 +1,77 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "⭐ Menú con todas las prácticas",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "Unidad I · Anatomía del Scaffold",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad1/anatomia_scaffold/main.dart"
+    },
+    {
+      "name": "Unidad I · Anatomía de Flutter",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad1/anatomia_flutter/main.dart"
+    },
+    {
+      "name": "Unidad II · Práctica 2 – Tarjeta de Perfil",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad2/p2_tarjeta_perfil/main.dart"
+    },
+    {
+      "name": "Unidad II · Práctica 3 – Anatomía Espacial",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad2/p3_anatomia_espacial/main.dart"
+    },
+    {
+      "name": "Unidad II · Práctica 4 – Solución Overflow",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad2/p4_solucion_overflow/main.dart"
+    },
+    {
+      "name": "Unidad II · Práctica 5 – Formulario Interactivo",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad2/p5_formulario/main.dart"
+    },
+    {
+      "name": "Unidad II · Práctica 7 – Consumo de un JSON en una Lista",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad2/p7_json_lista/main.dart"
+    },
+    {
+      "name": "Unidad III · Práctica 3 – Widget Personalizado",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad3/p3_widget_personalizado/main.dart"
+    },
+    {
+      "name": "Unidad III · Práctica 4 – Estado Local y Comunicación Bidireccional (Contador)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad3/p4_comunicacion_bidireccional/main.dart"
+    },
+    {
+      "name": "Unidad III · Práctica 5 – Estado en Listas (FlutterGram)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad3/p5_estado_listas/main.dart"
+    },
+    {
+      "name": "Unidad III · Práctica 5 – Carga de JSON Local (FutureBuilder)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/unidad3/p5_json_futurebuilder/main.dart"
+    }
+  ]
+}

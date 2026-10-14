@@ -1,0 +1,8 @@
+{
+  "materias": [
+    {"id": 1, "nombre": "Desarrollo de Aplicaciones Móviles", "docente": "Josué Israel Vasquez Martínez", "creditos": 5, "descripcion": "Desarrollo de apps multiplataforma con Flutter."},
+    {"id": 2, "nombre": "Autómatas 2", "docente": "Por definir", "creditos": 5, "descripcion": "Analizadores léxicos, sintácticos y semánticos."},
+    {"id": 3, "nombre": "Sistemas Programables", "docente": "Lucia Sanchez Vasquez", "creditos": 5, "descripcion": "Programación de microcontroladores y sensores."},
+    {"id": 4, "nombre": "Conmutación y Enrutamiento en Redes de Datos", "docente": "Por definir", "creditos": 5, "descripcion": "Configuración de switches, routers y protocolos."}
+  ]
+}
